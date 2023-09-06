@@ -2,7 +2,7 @@
 ## _Một điều nho nhỏ tỏ tình với crush_
 
 Liên lạc: 
-[![Facebook](https://www.facebook.com/johnnybao25/)(str)
+Facebook(https://www.facebook.com/johnnybao25/)
 
 Mở file config.js sửa nội dung theo mẫu
 ```
